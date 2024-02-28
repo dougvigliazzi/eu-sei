@@ -311,12 +311,7 @@ CREATE TABLE IF NOT EXISTS `usuario` (
 --
 
 INSERT INTO `usuario` (`id_usuario`, `usuario`, `senha`, `nome`, `email`, `id_area`) VALUES
-(1, 'paulo', '12345', 'Paulo Roberto de Paiva Vella', 'paulo@clp.unesp.br', 2),
-(2, 'claudio', '12345', 'Claudio Santos Silva', 'claudio@clp.unesp.br', 2),
-(3, 'douglas', '12345', 'Douglas Vigliazzi', 'douglas@clp.unesp.br', 2),
-(4, 'allan', 'allanbique', 'Allan George Lima', 'allan@clp.unesp.br', 1),
-(5, 'cesar', '12345', 'Cesar Augusto Galdino', 'galdino@clp.unesp.br', 1),
-(6, 'luis', '12345', 'Luis Carlos Kubo', 'luiscarlos@clp.unesp.br', 3);
+(1, 'douglas', 'xXxXxX', 'Douglas Vigliazzi', 'douglas@clp.unesp.br', 2),
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
